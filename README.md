@@ -1,5 +1,4 @@
-Hi, I’m @SanderNagtegaal
-I’m learning to become a full stack web developer and make developing my main job. 
+Hi, I’m @SanderNagtegaal. I’m learning to become a full stack web developer.
 Also interested in building algorithms for trading purposes.
 
 <!---
